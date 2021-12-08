@@ -6,10 +6,12 @@
   background: darkgrey;
   display: flex;
   flex-direction: column;
+  border-radius: 1em;
 }
 
 #card {
   background: lightgrey;
   width: 30%;
   height: 40%;
+  margin: auto;
 }
