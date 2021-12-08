@@ -1,0 +1,15 @@
+.text-center {
+  text-align: center;
+}
+
+#container {
+  background: darkgrey;
+  display: flex;
+  flex-direction: column;
+}
+
+#card {
+  background: lightgrey;
+  width: 30%;
+  height: 40%;
+}
